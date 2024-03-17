@@ -4,7 +4,7 @@
   "description": "Quest for tea.xyz",
   "main": "index.js",
   "author": "@comrat32",
-  "repository": "https://github.com/melihc/tea-xyz-quest.git",
+  "repository": "https://github.com/comrat32/tea-xyz-quest.git",
   "license": "ISC",
   "dependencies": {
     "rxjs": "^6.2.2",
